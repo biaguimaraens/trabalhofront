@@ -1,0 +1,13 @@
+body{
+  background-color: yellow lighten-3;
+}
+#titulo{
+  font-family: 'Homemade Apple', cursive;
+  font-size: 3vh;
+}
+@media (max-width: 600px){
+  #titulo{
+    font-size:2vh;
+  }
+
+}
